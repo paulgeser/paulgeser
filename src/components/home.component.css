@@ -1,0 +1,15 @@
+
+.home-backpicture-box {
+    width: 100vw;
+    height: 80vh;
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+
+.home-backpicture {
+    width: 100vw;
+}
+
+.maf-picture {
+    width: 40vw;
+}
